@@ -1,0 +1,47 @@
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18230571310386249737", Request ID "8000000a-0004-fd00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18302628895834243133", Request ID "8000003e-0002-fe00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18374686502757072922", Request ID "8000001b-0005-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18158513699168452678", Request ID "80000047-0000-fc00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18374686485577203753", Request ID "8000002a-0001-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18374686485577203753", Request ID "8000002b-0001-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18158513699168452681", Request ID "8000004a-0000-fc00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18374686498462105675", Request ID "8000004c-0004-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18374686507052040252", Request ID "8000003d-0006-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18374686511347007512", Request ID "80000019-0007-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Application started. Press Ctrl+C to shut down.
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Hosting environment: Development
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Content root path: C:\Users\ereno\OneDrive\Masaüstü\BlogService
+Log Level : Error | Event ID : 2 | Event Name : ApplicationError | Formatter : Connection ID "18374686498462105679", Request ID "80000050-0004-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
